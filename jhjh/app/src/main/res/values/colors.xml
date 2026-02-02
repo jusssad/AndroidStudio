@@ -1,0 +1,13 @@
+<resources>
+    <!-- Основной текст -->
+    <color name="text_primary">#000000</color>
+
+    <!-- Подсказки (hint) -->
+    <color name="text_hint">#666666</color>
+
+    <!-- Текст кнопки -->
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- Фон кнопки -->
+    <color name="button_bg">#6200EE</color>
+</resources>

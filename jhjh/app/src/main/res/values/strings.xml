@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TASKCH</string>
+
+    <string name="title_task">Практическая работа 1</string>
+    <string name="text_a">A</string>
+    <string name="text_b">B</string>
+    <string name="text_c">C</string>
+    <string name="text_x">X</string>
+    <string name="png">Изображение Задания</string>
+
+    <string name="btn_calc">Посчитать</string>
+    <string name="text_default_result">
+        Напиши числа и нажми кнопку "Посчитать"
+    </string>
+</resources>
